@@ -1,5 +1,6 @@
 <slot />
+<Resolution />
 
 <script>
-	import '../styles/common.scss'
+	import Resolution from '$lib/resolution.svelte'
 </script>
